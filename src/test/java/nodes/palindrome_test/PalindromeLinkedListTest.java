@@ -1,6 +1,7 @@
-package nodes.palindrome;
+package nodes.palindrome_test;
 
 import nodes.ListNode;
+import nodes.palindrome.PalindromeLinkedList;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.*;
